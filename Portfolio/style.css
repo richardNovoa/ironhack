@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+
+}
+.nav {
+    background-color: black;
+    height: 88px;
+    display: block;
+    position: fixed;
+    width: 100%;
+}
+.nav img{
+    height: 80px;
+    margin-left: 16px;
+    margin-top: 4px;
+}
+.entry {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+    
+}
