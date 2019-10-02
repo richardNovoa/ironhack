@@ -14,10 +14,6 @@ body{
     margin-left: 16px;
     margin-top: 4px;
 }
-.entry {
-    width: 100%;
-    height: auto;
-    display: block;
-    object-fit: contain;
-    
+.cover {
+    height: 100px;
 }
